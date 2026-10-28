@@ -1,0 +1,5 @@
+REKAP NILAI
+Daftar nilai: [60.0, 90.0, 70.0]
+Jumlah nilai: 220.0
+Rata-rata: 73.33333333333333
+Nilai tertinggi: 90.0
